@@ -31,7 +31,9 @@ dependencies:
   flutter:
     sdk: flutter
   google_maps_flutter: ^2.5.3
-  dijkstra: ^0.0.4  # Update the version constraint to a version that exists
+  dijkstra: ^0.0.4
+  url_launcher: ^6.2.5
+  background_location: ^0.13.0  # Update the version constraint to a version that exists
 
 # Remaining content of pubspec.yaml...
 
