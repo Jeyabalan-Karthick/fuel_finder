@@ -51,8 +51,7 @@ class Home extends StatelessWidget {
                 onTap: () => Navigator.push(
                     context,
                     MaterialPageRoute(
-                        builder: (BuildContext context) =>
-                            const User_Location())),
+                        builder: (BuildContext context) => User_Location())),
                 child: Container(
                   height: 80,
                   width: 140,
