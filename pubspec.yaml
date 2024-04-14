@@ -33,13 +33,20 @@ dependencies:
   google_maps_flutter: ^2.5.3
   dijkstra: ^0.0.4
   url_launcher: ^6.2.5
-  background_location: ^0.13.0  # Update the version constraint to a version that exists
+  shared_preferences: ^2.2.3
+  avatar_glow: ^3.0.1  # Update the version constraint to a version that exists
 
 # Remaining content of pubspec.yaml...
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  google_fonts: ^6.2.0
+  provider: ^6.1.2
+  firebase_core: ^2.29.0
+  geolocator: ^11.0.0
+  firebase_database: ^10.5.1
+  
 
 dev_dependencies:
   flutter_test:
